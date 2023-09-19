@@ -5,7 +5,7 @@
 
 Also, download required libraries as below:
 ```
-pip install requests pillow
+pip install pillow
 ```
 
 # Usage
